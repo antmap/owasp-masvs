@@ -24,7 +24,7 @@ This document started as a fork of the OWASP Application Security Verification S
 
 ## 贊助者
 
-當MASVS與MSTG由志工性質的社群為基礎所創建和維運，有時會需要一點外來的援助。因此我們感謝我們的贊助者提供經費以供聘請技術編輯群。對他們的贊助致謝不會在任何形式上對MASVS或MSTG的內容造成影響。
+當MASVS與MSTG由志工性質的社群為基礎所創建和維運，有時會需要一點外來的援助。因此我們感謝我們的贊助者提供經費以供聘請技術編輯群。向他們的贊助致謝不會在任何形式上對MASVS或MSTG的內容造成影響。
 The sponsorship packages are described on the [OWASP Project Wiki](https://www.owasp.org/index.php/OWASP_Mobile_Security_Testing_Guide#tab=Sponsorship_Packages "OWASP Mobile Security Testing Guide Sponsorship Packages").
 
 ### Honourable Benefactor
