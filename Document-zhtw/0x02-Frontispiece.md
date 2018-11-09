@@ -22,9 +22,10 @@ Copyright © 2018 The OWASP Foundation. This document is released under the Crea
 
 This document started as a fork of the OWASP Application Security Verification Standard written by Jim Manico.
 
-## Sponsors
+## 贊助者
 
-While both the MASVS and the MSTG are created and maintained by the community on a voluntary basis, sometimes a little bit of outside help is required. We therefore thank our sponsors for providing the funds to be able to hire technical editors. Note that their sponsorship does not influence the content of the MASVS or MSTG in any way. The sponsorship packages are described on the [OWASP Project Wiki](https://www.owasp.org/index.php/OWASP_Mobile_Security_Testing_Guide#tab=Sponsorship_Packages "OWASP Mobile Security Testing Guide Sponsorship Packages").
+當MASVS與MSTG由志工性質的社群為基礎所創建和維運，有時會需要一點外來的援助。因此我們感謝我們的贊助者提供經費以供聘請技術編輯群。對他們的贊助致謝不會在任何形式上對MASVS或MSTG的內容造成影響。
+The sponsorship packages are described on the [OWASP Project Wiki](https://www.owasp.org/index.php/OWASP_Mobile_Security_Testing_Guide#tab=Sponsorship_Packages "OWASP Mobile Security Testing Guide Sponsorship Packages").
 
 ### Honourable Benefactor
 
